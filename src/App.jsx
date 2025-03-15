@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from 'react-router'
-import { IndexPage } from './pages/indexPage'
+import { IndexPage } from './pages/IndexPage.jsx'
 import { FavoritesPage } from './pages/FavoritesPage'
 import Layout from './layout/Layout'
 import Notifications from './Components/Notifications'
